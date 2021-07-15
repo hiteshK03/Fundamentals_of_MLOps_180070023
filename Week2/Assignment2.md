@@ -21,4 +21,4 @@ For both experiments:
 * Accuracy_score = 1.0  
 * F1_score = 1.0  
 
-![Screenshot from 2021-07-15 21-29-02](https://user-images.githubusercontent.com/45922320/125819511-1583898d-769c-42bd-bf19-bcc5383a7cd5.png)
+![Screenshot from 2021-07-15 21-29-02](https://user-images.githubusercontent.com/45922320/125819785-43652904-f07a-4dfe-9f46-440a3f824760.png)
