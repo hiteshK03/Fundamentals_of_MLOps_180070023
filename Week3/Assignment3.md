@@ -17,6 +17,10 @@ Link to Github Repo : [https://github.com/hiteshK03/MLOps_Assignment](https://gi
 |  gbc  |      0.6779      |        0.8019       |
 |  knn  |      0.5670      |        0.6336       |
 
+## Plots
+![conf_matrix](https://user-images.githubusercontent.com/45922320/126683729-82aca098-b1e0-439a-b10f-e0c6146c7c95.png)
+![download](https://user-images.githubusercontent.com/45922320/126683739-2ebee625-c0c7-4a08-91c2-634a689a0cbf.png)
+
 ## Evaluation on unseen data
 * Accuracy  : 0.9993
 * Precision : 0.7358
